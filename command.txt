@@ -1,0 +1,3 @@
+command: node server.js
+
+tutorial url: https://www.britwise.com/blog/angularjs-tutorial-for-beginners-in-simple-steps
